@@ -1,0 +1,84 @@
+[submodule "OpenKore/openkore"]
+	path = OpenKore/openkore
+	url = https://github.com/OpenKore/openkore
+[submodule "OpenKore/db2kore"]
+	path = OpenKore/db2kore
+	url = https://github.com/OpenKore/db2kore
+[submodule "OpenKore/grf"]
+	path = OpenKore/grf
+	url = https://github.com/OpenKore/grf
+[submodule "OpenKore/ircbot"]
+	path = OpenKore/ircbot
+	url = https://github.com/OpenKore/ircbot
+[submodule "OpenKore/lua-to-tables"]
+	path = OpenKore/lua-to-tables
+	url = https://github.com/OpenKore/lua-to-tables
+[submodule "OpenKore/packetExtractor"]
+	path = OpenKore/packetExtractor
+	url = https://github.com/OpenKore/packetExtractor
+[submodule "OpenKore/script-launcher"]
+	path = OpenKore/script-launcher
+	url = https://github.com/OpenKore/script-launcher
+[submodule "OpenKore/packet-extractor"]
+	path = OpenKore/packet-extractor
+	url = https://github.com/OpenKore/packet-extractor
+[submodule "OpenKore/Servertype-For-pServer"]
+	path = OpenKore/Servertype-For-pServer
+	url = https://github.com/OpenKore/Servertype-For-pServer
+[submodule "OpenKore/Wiki_TW"]
+	path = OpenKore/Wiki_TW
+	url = https://github.com/OpenKore/Wiki_TW
+[submodule "PandasWS/Pandas"]
+	path = PandasWS/Pandas
+	url = https://github.com/PandasWS/Pandas
+[submodule "PandasWS/rathena"]
+	path = PandasWS/rathena
+	url = https://github.com/PandasWS/rathena
+[submodule "PandasWS/LeeClient"]
+	path = PandasWS/LeeClient
+	url = https://github.com/PandasWS/LeeClient
+[submodule "rAthena/rathena"]
+	path = rAthena/rathena
+	url = https://github.com/rathena/rathena
+[submodule "rAthena/Fluxcp"]
+	path = rAthena/Fluxcp
+	url = https://github.com/rathena/Fluxcp
+[submodule "rAthena/user-guides"]
+	path = rAthena/user-guides
+	url = https://github.com/rathena/user-guides
+[submodule "rAthena/vsce-rathena-language-support"]
+	path = rAthena/vsce-rathena-language-support
+	url = https://github.com/rathena/vsce-rathena-language-support
+[submodule "rAthena/yaml-cpp"]
+	path = rAthena/yaml-cpp
+	url = https://github.com/rathena/yaml-cpp
+[submodule "rAthena/rAsql"]
+	path = rAthena/rAsql
+	url = https://github.com/rathena/rAsql
+[submodule "rAthena/rathena-cpp"]
+	path = rAthena/rathena-cpp
+	url = https://github.com/rathena/rathena-cpp
+[submodule "rAthena/trojan"]
+	path = rAthena/trojan
+	url = https://github.com/rathena/trojan
+[submodule "rAthena/rathena-github-io"]
+	path = rAthena/rathena-github-io
+	url = https://github.com/rathena/rathena.github.io
+[submodule "llchrisll/ROenglishRE"]
+	path = llchrisll/ROenglishRE
+	url = https://github.com/llchrisll/ROenglishRE
+[submodule "llchrisll/ROResourceCollection"]
+	path = llchrisll/ROResourceCollection
+	url = https://github.com/llchrisll/ROResourceCollection
+[submodule "llchrisll/rAthena-Scripts"]
+	path = llchrisll/rAthena-Scripts
+	url = https://github.com/llchrisll/rAthena-Scripts
+[submodule "rAthenaCN/rAthenaCN"]
+	path = rAthenaCN/rAthenaCN
+	url = https://github.com/rAthenaCN/rAthenaCN
+[submodule "rAthenaCN/ROClientFullCN"]
+	path = rAthenaCN/ROClientFullCN
+	url = https://github.com/rAthenaCN/ROClientFullCN
+[submodule "PythonrAthena/dp2rathena"]
+	path = PythonrAthena/dp2rathena
+	url = https://github.com/latiosu/dp2rathena
